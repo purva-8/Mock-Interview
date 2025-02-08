@@ -30,8 +30,8 @@ This project is a Flask-based web application that generates AI-powered intervie
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repository/interview-ai.git
-   cd interview-ai
+   https://github.com/purva-8/Mock-Interview.git
+   cd Mock-Interview
    ```
 2. Install dependencies:
    ```sh
