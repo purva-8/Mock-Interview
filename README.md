@@ -35,7 +35,7 @@ This project is a Flask-based web application that generates AI-powered intervie
    ```
 2. Install dependencies:
    ```sh
-   pip install flask google-generativeai
+   pip install -r requirements.txt
    ```
 3. Run the application:
    ```sh
